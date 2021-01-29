@@ -32,3 +32,8 @@
 ### 推荐
 - [Asyncpy协程爬虫框架](https://blog.csdn.net/weixin_43582101/article/details/106258518)
 
+### 交流
+
+![avatar](.png)
+
+
