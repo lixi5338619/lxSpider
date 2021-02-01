@@ -44,6 +44,7 @@
 
 ### 交流
 
-![avatar](./static/wxgroup.png)
+![avatar](static/wxgroup.jpg)
+
 
 
