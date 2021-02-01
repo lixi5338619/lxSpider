@@ -47,7 +47,7 @@
 
 ### 交流
 
-![avatar](static/wxgroup.jpg)
+![avatar](https://img-blog.csdnimg.cn/20210122105828788.png)
 
 
 
