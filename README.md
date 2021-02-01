@@ -47,7 +47,7 @@
 
 ### 交流
 
-![avatar](https://img-blog.csdnimg.cn/20210122105828788.png)
+![avatar](https://2img-blog.csdnimg.cn/20210122105828788.png)
 
 
 
