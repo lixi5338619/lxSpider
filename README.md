@@ -2,8 +2,11 @@
 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、百度指数、维普万方、Zlibraty、Oalib》
 
 **简介**：
-- 博主csdn链接 https://blog.csdn.net/weixin_43582101
-- 时光荏苒，我也忘记究竟写了多少爬虫做了多少案例了。作者文章发布在csdn，代码随后往github上更新。有部分文章为收费案例，合理订阅。
+- [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
+- 时光荏苒，记不清写了多少案例了。作者文章发布在csdn，代码随后往github上更新。有部分文章为收费案例，合理订阅。
+
+
+
 
 **声明**：
 - 本库以教学为基准、本库提供的可操作性不得用于任何商业用途和违法违规场景。
@@ -45,6 +48,7 @@
 ### 交流
 
 ![avatar](static/wxgroup.jpg)
+
 
 
 
