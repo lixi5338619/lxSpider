@@ -1,0 +1,1 @@
+pyinstaller -F main.py -p chapter.py -p chapterList.py -p query.py -p save.py -p search.py
