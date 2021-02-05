@@ -1,5 +1,5 @@
 # lxSpider
-爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、百度指数、维普万方、Zlibraty、Oalib》
+爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、百度指数、维普万方、Zlibraty、Oalib、小说网站》
 
 **简介**：
 - [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
