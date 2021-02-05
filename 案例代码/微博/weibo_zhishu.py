@@ -6,6 +6,8 @@ import requests
 import json
 import re
 
+# TODO 微博移动版指数
+
 class WeiboZhishu():
     def __init__(self):
 
