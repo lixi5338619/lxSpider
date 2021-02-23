@@ -43,7 +43,7 @@
 - [选哪儿网动态字体映射案例](https://blog.csdn.net/weixin_43582101/article/details/113373277)
 
 ### 推荐
-- [Asyncpy协程爬虫框架](https://blog.csdn.net/weixin_43582101/article/details/106258518)
+- [Asyncpy协程爬虫框架](https://github.com/lixi5338619/asyncpy)
 
 ### 交流
 
