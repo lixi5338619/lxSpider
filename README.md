@@ -1,5 +1,5 @@
 # lxSpider
-爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、百度指数、维普万方、Zlibraty、Oalib、小说网站》
+爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、百度指数、维普万方、Zlibraty、Oalib、小说网站、招标采购网》
 
 **简介**：
 - [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
@@ -31,19 +31,33 @@
 ---
 
 ### 目录
+
+- [论文网站](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/维普知网万方论文)
+- [招标网站](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/招标投标)
+- [抖音](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/抖音)
+- [微博](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/微博)
+- [微信公众号](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/微信公众号)
+- [小说网站](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/小说网站)
+- [天眼查](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/天眼查)
+- [京东](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/京东)
+- [阿里1688](ali1688)
+- [58同城](58同城)
+- [豆瓣Sign](豆瓣)
+
+### 博客
+- [抖音xgorgon生成](https://blog.csdn.net/weixin_43582101/article/details/108012579)
 - [数美滑块验证码分析](https://blog.csdn.net/weixin_43582101/article/details/112553479)
 - [淘宝h5-sign值生成](https://blog.csdn.net/weixin_43582101/article/details/109383922)
 - [1688以图搜图案例](https://blog.csdn.net/weixin_43582101/article/details/107427108)
 - [快手web弹幕采集](https://blog.csdn.net/weixin_43582101/article/details/108466933)
 - [微博指数爬虫](https://blog.csdn.net/weixin_43582101/article/details/102662019)
-- [抖音xgorgon生成](https://blog.csdn.net/weixin_43582101/article/details/108012579)
 - [微信公众号文章采集](https://blog.csdn.net/weixin_43582101/article/details/109449733)
 - [今日头条as-cp-sign](https://blog.csdn.net/weixin_43582101/article/details/106429765)
 - [优酷评论sign值生成方法](https://blog.csdn.net/weixin_43582101/article/details/106096666)
 - [选哪儿网动态字体映射案例](https://blog.csdn.net/weixin_43582101/article/details/113373277)
 
 ### 推荐
-- [Asyncpy协程爬虫框架](https://blog.csdn.net/weixin_43582101/article/details/106258518)
+- [Asyncpy协程爬虫框架](https://github.com/lixi5338619/asyncpy)
 
 ### 交流
 
