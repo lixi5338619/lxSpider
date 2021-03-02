@@ -8,7 +8,7 @@ import hashlib
 import threading
 
 '''     cods.org.cn
-《全国组织机构统一社会信用代码公示查询平台》
+《统一社会信用代码公示查询平台》
         微信小程序版
 '''
 
