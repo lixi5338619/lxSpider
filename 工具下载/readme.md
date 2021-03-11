@@ -8,7 +8,7 @@
 
 - [查壳小工具](https://download.csdn.net/download/weixin_43582101/12837573) 
 
-- [HttpAnalyzerStd V7 抓包工具（x9hg）](https://pan.baidu.com/s/1p3ThL5yqqc5XwTrDdmmGCg)
+- [HttpAnalyzerStd V7 windows抓包工具（x9hg）](https://pan.baidu.com/s/1p3ThL5yqqc5XwTrDdmmGCg)
 
 - [FDex2 脱壳工具（yds2）](https://pan.baidu.com/s/1e0zcp1IzA-u7UC-A3gaj8g)
 
