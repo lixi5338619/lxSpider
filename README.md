@@ -47,6 +47,7 @@
 
 ### 博客
 - [抖音xgorgon生成](https://blog.csdn.net/weixin_43582101/article/details/108012579)
+- [闲鱼抓包案例](https://blog.csdn.net/weixin_43582101/article/details/114667690)
 - [数美滑块验证码分析](https://blog.csdn.net/weixin_43582101/article/details/112553479)
 - [淘宝h5-sign值生成](https://blog.csdn.net/weixin_43582101/article/details/109383922)
 - [1688以图搜图案例](https://blog.csdn.net/weixin_43582101/article/details/107427108)
