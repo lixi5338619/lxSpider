@@ -302,5 +302,7 @@ if __name__ == '__main__':
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) '
                       'Chrome/87.0.4280.141 Safari/537.36'
     }
+
     city_url = merchants('杭州', '美食')
+
     print(city_url)
