@@ -125,7 +125,6 @@ def get_woff(url):
 
 def dict_woff(key):
     real_list = {}
-
     # 打开本地字体文件
     font_data = TTFont(f'{key}.woff')
     # font_data.saveXML('shopNum.xml')
@@ -292,7 +291,9 @@ def merchants(city, fenleis):
                 else:
                     service += str(sl)
             print('服务', service)
+
             break
+
         break
 
 
