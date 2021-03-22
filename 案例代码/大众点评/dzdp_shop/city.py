@@ -296,7 +296,6 @@ def merchants(city, fenleis):
 
         break
 
-
 if __name__ == '__main__':
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) '
