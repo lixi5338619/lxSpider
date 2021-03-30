@@ -2,7 +2,7 @@ import json
 from utils import test_cookies
 from baidu_index import BaiduIndex
 
-cookies = "BDUSS=lNvbFZLS0JERmpZQTd0QktJSFh3a2RYRXZoUEtwN3JWTXVMQkdHc3dtWlpnU3hnRVFBQUFBJCQAAAAAAAAAAAEAAADl2HYhxNq439Chz6YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFn0BGBZ9ARgQ"
+cookies = "BDUSS=需要填写自己的cookie"
 
 
 if __name__ == "__main__":
