@@ -52,6 +52,7 @@ def search_goods(keyword,page=1):
 
 # 搜索用户
 def search_users(keyword,page=1):
+    # 现在也需要x-sign
     url = f'https://www.xiaohongshu.com/fe_api/burdock/weixin/v2/search/users?keyword={keyword}&page={page}&pageSize=20'
     response = requests.get(url=url, headers=headers_login).text
     print(response)
