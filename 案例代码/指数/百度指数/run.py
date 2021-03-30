@@ -43,7 +43,3 @@ if __name__ == "__main__":
         csv_writer.writerow([d,e])
 
 
-    #index_dict = {'index': index_list}
-    #with open('test.json', 'a', encoding="utf-8") as f:
-    #    json.dump(index_dict, f, ensure_ascii=False, indent=4)
-    #    f.write('\n')
