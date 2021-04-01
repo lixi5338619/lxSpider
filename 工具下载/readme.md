@@ -30,3 +30,5 @@
 
 - [FontCreator(hnku)英文版](https://pan.baidu.com/s/1Ek34ePZpJYTkmiCuKsqIMQ)
 
+- [鬼鬼JS调试工具（1s67）](https://pan.baidu.com/s/1hjdgx3DOTJMp0wtYGAa67A)
+
