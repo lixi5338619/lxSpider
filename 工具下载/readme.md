@@ -1,6 +1,6 @@
 **括号中的字符是下载提取码**
 
-### 安卓逆向工具
+### 安卓逆向相关工具
 
 - [IDAPro7.0 调试工具Windows版本](https://download.csdn.net/download/weixin_43582101/12701873)
 
@@ -28,5 +28,9 @@
 
 - [Drony_113（tyk7）](https://pan.baidu.com/s/14d6ezZXRWDQayL73d2E8gw)  
 
+### 其他常用工具
+
 - [FontCreator(hnku)英文版](https://pan.baidu.com/s/1Ek34ePZpJYTkmiCuKsqIMQ)
+
+- [鬼鬼JS调试工具（1s67）](https://pan.baidu.com/s/1hjdgx3DOTJMp0wtYGAa67A)
 
