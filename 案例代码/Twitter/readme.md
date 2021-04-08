@@ -18,5 +18,3 @@ main方法中需要填写 csrf_token和authorization和cookies
 这三个参数都在headers中
 
 ---
-
-用户信息数据没有存储，自行修改
