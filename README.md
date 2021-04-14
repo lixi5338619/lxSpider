@@ -42,9 +42,9 @@
 - [小说网站](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/小说网站)
 - [天眼查](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/天眼查)
 - [京东](https://github.com/lixi5338619/lxSpider/tree/main/案例代码/京东)
-- [阿里1688](ali1688)
-- [58同城](58同城)
-- [豆瓣Sign](豆瓣)
+- [阿里1688](https://github.com/lixi5338619/lxSpider/tree/main/%E6%A1%88%E4%BE%8B%E4%BB%A3%E7%A0%81/%E8%B1%86%E7%93%A3/ali1688)
+- [58同城](https://github.com/lixi5338619/lxSpider/tree/main/%E6%A1%88%E4%BE%8B%E4%BB%A3%E7%A0%81/%E8%B1%86%E7%93%A3/58同城)
+- [豆瓣Sign](https://github.com/lixi5338619/lxSpider/tree/main/%E6%A1%88%E4%BE%8B%E4%BB%A3%E7%A0%81/%E8%B1%86%E7%93%A3/DoubanAPI)
 - ...
 
 ### 博客
