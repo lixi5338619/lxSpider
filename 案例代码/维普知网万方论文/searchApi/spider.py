@@ -110,7 +110,7 @@ def get_zhiwang(keyword,searchtype='Content'):
     return item
 
 
-'''万方数据网'''
+'''万方数据网（代码已过期）'''
 def get_wanfang(keyword,searchtype='Content'):
 
     url = 'http://www.wanfangdata.com.cn/search/searchList.do?'

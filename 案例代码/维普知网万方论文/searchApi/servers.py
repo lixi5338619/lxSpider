@@ -55,7 +55,7 @@ def make_app():
         (r"/get_weipu", Weipu),
         (r"/get_jstor", Jstor),
         (r"/get_zhiwang", Zhiwang),
-        (r"/get_wanfang", Wanfang),
+        #(r"/get_wanfang", Wanfang), # 万方更新了
         (r"/get_zlibraty", Zlibraty),
         (r"/get_oalib", Oalib),
     ])

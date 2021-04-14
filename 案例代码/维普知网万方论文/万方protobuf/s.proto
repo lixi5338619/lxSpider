@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+
+message SearchService {
+
+    enum SearchScope {
+        A = 0;
+    }
+
+    enum SearchFilter {
+        B = 0;
+    }
+
+    message CommonRequest {
+        string searchType = 1;
+        string searchWord = 2;
+        int32 currentPage = 3;
+        int32 pageSize = 4;
+        SearchScope searchScope = 5;
+        repeated SearchFilter searchFilter = 6;
+    }
+
+    message SearchRequest {
+        CommonRequest commonrequest = 1;
+    }
+}
