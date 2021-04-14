@@ -6,7 +6,7 @@
 
 ---
 
-protoc.exe下载地址：https://github.com/protocolbuffers/protobuf/releases
+protoc下载地址：https://github.com/protocolbuffers/protobuf/releases
 
 ---
 
