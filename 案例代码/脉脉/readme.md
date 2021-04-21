@@ -17,7 +17,7 @@
 
 #### 网页版采集流程图
 
-![网页版采集流程图](static/process1.png?=100x#pic_center)
+![网页版采集流程图](./static/process1.png?=100x#pic_center)
 
 ## APP检索策略
 通过app上提供的高级搜索标签进行检索，根据省市和行业标签进行分类。
