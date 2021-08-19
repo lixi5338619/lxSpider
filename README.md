@@ -1,10 +1,9 @@
 # lxSpider
-爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说网站、招标采购网、小红书、大众点评》
+爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说网站、招标采购网、小红书、大众点评、推特、脉脉》
 
 **简介**：
 - [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
 - 时光荏苒，记不清写了多少案例了。作者文章发布在csdn，代码随后往github上更新。csdn部分文章为收费案例，合理订阅。
-
 
 
 
@@ -30,6 +29,9 @@
 
 [爬虫案例合集](https://blog.csdn.net/weixin_43582101/category_9291501.html) ：付费专栏、经典案例、持续更新
 
+
+<img src="https://img-blog.csdnimg.cn/20210714091420938.png" width="1000" height="220" alt=""/><br/>
+
 ---
 
 ### 目录
@@ -48,6 +50,7 @@
 - ...
 
 ### 博客
+- [抖音signature网页版](https://blog.csdn.net/weixin_43582101/article/details/118084709)
 - [抖音xgorgon生成](https://blog.csdn.net/weixin_43582101/article/details/108012579)
 - [万方protobuf协议](https://blog.csdn.net/weixin_43582101/article/details/115696541)
 - [闲鱼抓包案例](https://blog.csdn.net/weixin_43582101/article/details/114667690)
@@ -67,7 +70,4 @@
 ### 交流
 
 ![avatar](https://2img-blog.csdnimg.cn/20210122105828788.png)
-
-
-
 
