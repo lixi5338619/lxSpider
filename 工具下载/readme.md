@@ -30,6 +30,8 @@
 
 - [ddms(wk3d)](https://pan.baidu.com/s/1wdsZvTA-fAZ12o53Exw80A)
 
+- [JEB3.0中文版(k2s4)](https://pan.baidu.com/s/1kCjw8dP9tq7kLBWkublHag)
+
 ### 其他常用工具
 
 - [FontCreator(hnku)英文版](https://pan.baidu.com/s/1Ek34ePZpJYTkmiCuKsqIMQ)
