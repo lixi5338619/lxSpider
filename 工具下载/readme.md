@@ -32,6 +32,10 @@
 
 - [JEB3.0中文版(k2s4)](https://pan.baidu.com/s/1kCjw8dP9tq7kLBWkublHag)
 
+- [fridaManager( jovi )](https://pan.baidu.com/s/1u_P2P_kd_H2n2SYTaLB0hA)
+
+
+
 ### 其他常用工具
 
 - [FontCreator(hnku)英文版](https://pan.baidu.com/s/1Ek34ePZpJYTkmiCuKsqIMQ)
