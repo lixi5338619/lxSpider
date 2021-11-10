@@ -28,6 +28,7 @@
 
 - [Drony_113（tyk7）](https://pan.baidu.com/s/14d6ezZXRWDQayL73d2E8gw)  
 
+<<<<<<< HEAD
 - [ddms(wk3d)](https://pan.baidu.com/s/1wdsZvTA-fAZ12o53Exw80A)
 
 - [JEB3.0中文版(k2s4)](https://pan.baidu.com/s/1kCjw8dP9tq7kLBWkublHag)
@@ -36,6 +37,8 @@
 
 
 
+=======
+>>>>>>> parent of bee0b21 (Update readme.md)
 ### 其他常用工具
 
 - [FontCreator(hnku)英文版](https://pan.baidu.com/s/1Ek34ePZpJYTkmiCuKsqIMQ)
