@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for ccgp_guizhou project
+# Scrapy settings for jy_guangdong project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,10 +9,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'ccgp_guizhou'
+BOT_NAME = 'jy_guangdong'
 
-SPIDER_MODULES = ['ccgp_guizhou.spiders']
-NEWSPIDER_MODULE = 'ccgp_guizhou.spiders'
+SPIDER_MODULES = ['jy_guangdong.spiders']
+NEWSPIDER_MODULE = 'jy_guangdong.spiders'
 
 SPLASH_URL = 'http://192.168.100.114:8050'
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
@@ -31,7 +31,7 @@ CONCURRENT_REQUESTS = 1
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 5
+DOWNLOAD_DELAY = 60
 
 # The download delay setting will honor only one of:
 CONCURRENT_REQUESTS_PER_DOMAIN = 1
@@ -56,13 +56,13 @@ CONCURRENT_REQUESTS_PER_IP = 1
 # }
 SPIDER_MIDDLEWARES = {
     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
-    'ccgp_guizhou.middlewares.CommonSpiderMiddleware': 49,
+    'jy_guangdong.middlewares.CommonSpiderMiddleware': 49,
 }
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'ccgp_guizhou.middlewares.NxDownloaderMiddleware': 543,
+#    'jy_guangdong.middlewares.NxDownloaderMiddleware': 543,
 #}
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_splash.SplashCookiesMiddleware': 723,
@@ -79,7 +79,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'ccgp_guizhou.pipelines.CommonPipeline': 300,
+   'jy_guangdong.pipelines.CommonPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -106,11 +106,9 @@ ITEM_PIPELINES = {
 # Custom settings
 LOG_LEVEL= 'INFO'
 
-# MONGDB_URI = 'mongodb://192.168.100.113:27017/'
-MONGDB_URI = 'mongodb://admin:123321@192.168.100.176:27017/'
-# MONGDB_DB_NAME = 'db_trade'
-# MONGDB_COLLECTION = 't_trade_raw'
+MONGDB_URI = 'mongodb://admin:123456@127.0.0.1:27017/'
+MONGDB_DB_NAME = 'db_trade'
+MONGDB_COLLECTION = 't_trade_raw'
 
-MONGDB_DB_NAME = 'db_trade_test'  # test only
-MONGDB_COLLECTION = 't_trade_raw_test'
-
+# MONGDB_DB_NAME = 'db_trade_test'  # test only
+# MONGDB_COLLECTION = 't_trade_raw_test'

@@ -17,10 +17,10 @@ import json
 
 import sys
 
-# 以下是杰云相关的包
-from jy_scrapy_common.jy_common_items import CommonRawItem
-from jy_scrapy_common.jy_utils import JyScrapyUtil
-from jy_scrapy_common.jy_crawl_helper import JyCrawlHelper
+
+from common.jy_common_items import CommonRawItem
+from common.jy_utils import JyScrapyUtil
+from common.jy_crawl_helper import JyCrawlHelper
 
 
 class CrawlMode(Enum):
