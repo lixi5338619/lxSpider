@@ -51,6 +51,7 @@
 
 ### 博客
 - [抖音signature网页版](https://blog.csdn.net/weixin_43582101/article/details/118084709)
+- [巨量指数signature](https://blog.csdn.net/weixin_43582101/article/details/120510502)
 - [抖音xgorgon生成](https://blog.csdn.net/weixin_43582101/article/details/108012579)
 - [万方protobuf协议](https://blog.csdn.net/weixin_43582101/article/details/115696541)
 - [闲鱼抓包案例](https://blog.csdn.net/weixin_43582101/article/details/114667690)
