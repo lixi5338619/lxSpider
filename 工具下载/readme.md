@@ -36,6 +36,8 @@
 - [fridaManager( jovi )](https://pan.baidu.com/s/1u_P2P_kd_H2n2SYTaLB0hA)
 
 
+- [NP管理器(9jk7)](https://pan.baidu.com/s/1X5g8loORq_WS0HLqeasLbg)
+
 
 ### 其他常用工具
 
