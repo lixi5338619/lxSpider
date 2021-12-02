@@ -38,6 +38,9 @@
 
 - [NP管理器(9jk7)](https://pan.baidu.com/s/1X5g8loORq_WS0HLqeasLbg)
 
+- [超级Jadx(9999)](https://pan.baidu.com/s/1SHsJGfnGJJmcPfgcC_lnYA)
+
+
 
 ### 其他常用工具
 
