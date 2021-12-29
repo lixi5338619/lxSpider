@@ -29,6 +29,8 @@
 
 [爬虫案例合集](https://blog.csdn.net/weixin_43582101/category_9291501.html) ：付费专栏、经典案例、持续更新
 
+[签名逆向合集](https://blog.csdn.net/weixin_43582101/category_11192755.html) ：重点分享在逆向过程中遇到的签名和加密处理。
+
 
 <img src="https://img-blog.csdnimg.cn/20210714091420938.png" width="1000" height="220" alt=""/><br/>
 
