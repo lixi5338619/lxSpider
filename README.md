@@ -52,6 +52,10 @@
 - ...
 
 ### 博客
+- [一点资讯app signature](https://blog.csdn.net/weixin_43582101/article/details/121995276)
+- [书旗app字符串加密分析](https://blog.csdn.net/weixin_43582101/article/details/122168550)
+- [美图app sig分析](https://blog.csdn.net/weixin_43582101/article/details/121853848)
+- [捷风资讯app sign](https://blog.csdn.net/weixin_43582101/article/details/122125297)
 - [抖音signature网页版](https://blog.csdn.net/weixin_43582101/article/details/118084709)
 - [巨量指数signature](https://blog.csdn.net/weixin_43582101/article/details/120510502)
 - [抖音xgorgon生成](https://blog.csdn.net/weixin_43582101/article/details/108012579)
