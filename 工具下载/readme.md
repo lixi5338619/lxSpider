@@ -1,6 +1,4 @@
-**括号中的字符是下载提取码**
- 
-# 安卓逆向相关工具
+# 逆向相关工具
 
 ### 查壳反编译
 
@@ -18,6 +16,7 @@
 
 - [JEB3.0中文版](https://pan.baidu.com/s/1kCjw8dP9tq7kLBWkublHag?pwd=k2s4)
 
+- [JEB2.3.7](https://pan.baidu.com/s/1HgyyEomL72jLWY1XMtHv8g?pwd=zpha)
 
 ### 脱壳工具
 
@@ -27,6 +26,9 @@
 
 - [BlackDex3.1.0](https://pan.baidu.com/s/18gijmyy5dgUCbwi-hnqtpg?pwd=433u) 
 
+- [DumpDex](https://github.com/WrBug/dumpDex)
+
+- [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump)
 
 ### HOOK工具
 
@@ -60,7 +62,7 @@
 
 - [UnpackMiniApp](https://pan.baidu.com/s/1dwUehOAnPka9eHjXN6Y-Lg?pwd=unp7)
 
-- 
+- [CrackMinApp](https://github.com/Cherrison/CrackMinApp)
 
 
 # 其他常用工具
