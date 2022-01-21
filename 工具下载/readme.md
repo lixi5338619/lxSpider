@@ -12,6 +12,8 @@
 
 - [IDAPro7.0 调试工具Windows版本](https://download.csdn.net/download/weixin_43582101/12701873)
 
+- [IDAPro7.0 调试工具Mac版本- (coderL提供)](https://pan.baidu.com/s/1Lqx8bZiNNDHuQKXnckb-OQ?pwd=cgqf)
+
 - [ddms](https://pan.baidu.com/s/1wdsZvTA-fAZ12o53Exw80A?pwd=wk3d)
 
 - [JEB3.0中文版](https://pan.baidu.com/s/1kCjw8dP9tq7kLBWkublHag?pwd=k2s4)
