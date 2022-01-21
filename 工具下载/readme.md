@@ -10,7 +10,7 @@
 
 - [超级Jadx](https://pan.baidu.com/s/1SHsJGfnGJJmcPfgcC_lnYA?pwd=9999)
 
-- [IDAPro7.0 调试工具Windows版本](https://download.csdn.net/download/weixin_43582101/12701873)
+- [IDAPro7.0 调试工具Windows版本](https://pan.baidu.com/s/1FVehWbEL9K0pxmMdUeRZeg?pwd=9999)
 
 - [IDAPro7.0 调试工具Mac版本- (白夜、coderL提供)](https://pan.baidu.com/s/1Lqx8bZiNNDHuQKXnckb-OQ?pwd=cgqf)
 
