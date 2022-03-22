@@ -53,11 +53,8 @@
 
 - [HttpAnalyzerStd V7](https://pan.baidu.com/s/1p3ThL5yqqc5XwTrDdmmGCg?pwd=x9hg)
 
-- [fridaManager](https://pan.baidu.com/s/1u_P2P_kd_H2n2SYTaLB0hA?pwd=jovi)
-
-- [NP管理器](https://pan.baidu.com/s/1X5g8loORq_WS0HLqeasLbg?pwd=9jk7)
-
 - [NetCapture V2.1.8](https://pan.baidu.com/s/1MEvbvjRwqXZdWex_IvhSeA?pwd=nfc1)
+
 
 
 ### 微信小程序
@@ -65,6 +62,12 @@
 - [UnpackMiniApp](https://pan.baidu.com/s/1dwUehOAnPka9eHjXN6Y-Lg?pwd=unp7)
 
 - [CrackMinApp](https://github.com/Cherrison/CrackMinApp)
+
+### other
+
+- [fridaManager](https://pan.baidu.com/s/1u_P2P_kd_H2n2SYTaLB0hA?pwd=jovi)
+
+- [NP管理器](https://pan.baidu.com/s/1X5g8loORq_WS0HLqeasLbg?pwd=9jk7)
 
 
 # 其他常用工具
