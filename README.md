@@ -5,6 +5,7 @@
 - [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
 - 时光荏苒，记不清写了多少案例了。作者文章发布在csdn，代码随后往github上更新。csdn部分文章为收费案例，合理订阅。
 
+- 新书 **《爬虫逆向进阶实战》** 即将上市，附带140分钟逆向案例教学视频！
 
 
 **声明**：
@@ -63,11 +64,15 @@
 - [今日头条as-cp-sign](https://blog.csdn.net/weixin_43582101/article/details/106429765)
 - [优酷评论sign值生成方法](https://blog.csdn.net/weixin_43582101/article/details/106096666)
 - [选哪儿网动态字体映射案例](https://blog.csdn.net/weixin_43582101/article/details/113373277)
+- [趣头条app sign](http://t.csdn.cn/WIHq1)
+- [某路黔寻小程序sign](http://t.csdn.cn/youIh)
+- [抖店signature](https://blog.csdn.net/weixin_43582101/article/details/123549946)
+
 
 ### 推荐
 - [Asyncpy协程爬虫框架](https://github.com/lixi5338619/asyncpy)
 
+
 ### 交流
 
-![avatar](https://2img-blog.csdnimg.cn/20210122105828788.png)
-
+关注公众号《pythonlx》可获取群聊二维码！
