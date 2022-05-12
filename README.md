@@ -5,7 +5,7 @@
 - [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
 - 时光荏苒，记不清写了多少案例了。作者文章发布在csdn，代码随后往github上更新。csdn部分文章为收费案例，合理订阅。
 
-- 新书 **《爬虫逆向进阶实战》** 即将上市，附带140分钟逆向案例教学视频！
+- 新书 [《爬虫逆向进阶实战》](https://github.com/lixi5338619/lxBook) 已经上市，附带140分钟逆向案例教学视频！
 
 
 **声明**：
