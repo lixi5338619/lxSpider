@@ -69,6 +69,7 @@
 
 - [NP管理器](https://pan.baidu.com/s/1X5g8loORq_WS0HLqeasLbg?pwd=9jk7)
 
+- [MT管理器](https://pan.baidu.com/s/1AfBDHVvini4bweDOD9GoIw?pwd=9999)
 
 # 其他常用工具
 
