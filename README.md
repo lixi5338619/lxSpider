@@ -17,7 +17,14 @@
 
 - 如有侵权，请联系我进行删除。
  
+---
 
+# 个人博客
+各种版权问题导致部分文章已经无法在CSDN浏览，所以后续更多内容更新在个人博客中，另外有爬虫逆向辅助工具
+
+博客：[lxspider.com](http://www.lxspider.com)
+
+工具：[cnlans.com/lx/tools](http://www.cnlans.com/lx/tools)
 
 ---
 ### 专栏
