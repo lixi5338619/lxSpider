@@ -20,8 +20,7 @@ import sys
 sys.path.append('..')
 from common.jy_utils import JyScrapyUtil
 from common.jy_crawl_helper import JyCrawlHelper
-from common.jy_common_items import CommonRawItem
-
+from ..items import CommonRawItem
 
 class CrawlMode(Enum):
     REAL_TIME = 0
