@@ -16,7 +16,7 @@ headers = {
 
 sess = requests.session()
 
-url = 'https://www.cnvd.org.cn/flaw/list.htm'
+url = 'https://www.cnvd.org.cn/'
 
 def get1():
     r =sess.get(url,headers=headers,timeout=15,verify=False)
@@ -47,7 +47,7 @@ def get3(i):
     # parse(text)
 
     data = {'number': '请输入精确编号', 'startDate': '', 'endDate': '', 'field': '', 'order': '', 'numPerPage': '10', 'offset': i*10, 'max': '10'}
-    r1 = sess.post('https://www.cnvd.org.cn/flaw/list.htm?flag=true',headers=headers,data=data,verify=False)
+    r1 = sess.post('https://www.cnvd.org.cn/flaw/list?flag=true',headers=headers,data=data,verify=False)
     logger.info(f'第三次请求：{r1.status_code}')
     parse(r1.text)
     time.sleep(random.random())
