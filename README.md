@@ -3,11 +3,13 @@
 
 **简介**：
 - [![csdn](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/weixin_43582101)  [![csdn](https://img.shields.io/badge/GitHub-blue)](https://github.com/lixi5338619) 
-- 时光荏苒，记不清写了多少案例了。作者文章发布在csdn，代码随后往github上更新。csdn部分文章为收费案例，合理订阅。
+- 时光荏苒，记不清写了多少案例了。个人博客：www.lxspider.com  
+
+- 微信公众号：pythonlx 
 
 - 新书 [《爬虫逆向进阶实战》](https://github.com/lixi5338619/lxBook) 已经上市，附带140分钟逆向案例教学视频！
 
--  B站[视频案例教程](https://space.bilibili.com/390499740?)
+-  B站 [视频案例教程](https://space.bilibili.com/390499740?)
 
 **声明**：
 - 本库以教学为基准、本库提供的可操作性不得用于任何商业用途和违法违规场景。
