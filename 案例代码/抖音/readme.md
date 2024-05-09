@@ -1,4 +1,3 @@
-关于抖音的一些爬虫和其协议分析
+关于抖音的一些爬虫和其协议分析可到博客查看
 
-https://blog.csdn.net/weixin_43582101/category_9529769.html
 
